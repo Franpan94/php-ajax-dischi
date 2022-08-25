@@ -2,7 +2,7 @@
 $musicposters = [
 
     [
-        'poster' => "https://www.onstageweb.c…/bon-jovi-new-jersey.jpg",
+        'poster' => 'https://upload.wikimedia.org/wikipedia/commons/7/70/Bon_Jovi_1.jpg',
         'title' => "New Jersey",
         'author' => "Bon Jovi",
         'genre' => "Rock",
@@ -82,6 +82,6 @@ $musicposters = [
     ],
 ];
 
-header('Content-Type application/json');
+header('Content-Type: application/json');
 
 echo json_encode($musicposters);
