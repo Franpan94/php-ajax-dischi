@@ -6,7 +6,7 @@ const app = new Vue({
 
     methods: {
         getmusicposters(){
-            axios.get('http://localhost/php/php-ajax-dischi/server.php').then(result => {
+            axios.get('http://localhost/php/php-ajax-dischi/second%20version/server.php').then(result => {
                 this.musicposters = result.data;
             })
         }
