@@ -2,7 +2,7 @@
 $musicposters = [
 
     [
-        'poster' => 'https://upload.wikimedia.org/wikipedia/commons/7/70/Bon_Jovi_1.jpg',
+        'poster' => 'https://i.discogs.com/NG6RpgkDhcHyzW-h9IN7qIKnDdJIGOJCbHSo_Lr-KNM/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5Mjk3/MjYtMTM0OTYwMTA4/NS00ODMzLmpwZWc.jpeg',
         'title' => "New Jersey",
         'author' => "Bon Jovi",
         'genre' => "Rock",
